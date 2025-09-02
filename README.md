@@ -38,3 +38,4 @@ Oxygen is a RISC-V assembly simulator built with a Django backend. It supports t
    - **Reset:** Reset the memory and registers to start executing again.
    - **Registers and Memory:** View and update register and memory values as instructions are executed.
 
+Hello, done by Shahzaib
